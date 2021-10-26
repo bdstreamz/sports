@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/ipl2021/PSLME/ipl2021_480p/chunks.m3u8?live@IPL2021Official
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/Jx3_0kG6QF-A3_wSRZiSlbjxdP5BTESs4s2hWOHRkMHx8cGZJAY_T-GVyTz1r8iSK1MSB6w2b4iDQqI8CZOZNw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
