@@ -2,4 +2,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://vkvsd36.mycdn.me/hls/1762205174414.m3u8/sig/7R6TQFUPQ2A/expires/1632897727554/srcIp/157.51.61.117/clientType/13/srcAg/CHROME/mid/3488704048014/1762205174414_medium/index.m3u8?live@IPL2021Official
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/E_Gsh-7tXvZ1RjyEJuTRNz3ARMe2iJZ7zeBsUq6EoAdwxiSdjVH6MyMMOhsxZn8YhzrmCJ4wdpg84fmRGAs_cQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
