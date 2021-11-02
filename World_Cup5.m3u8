@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/a3q6-kpPGkVfFs3VjDYMv8-Mh2OuEuxTCLcbx73rs_q-k26jEzuTEDg13mSuS4oLWUaBv9rbf26mtFHLFpDJFw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
