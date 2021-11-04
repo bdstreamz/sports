@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACvTYVhAAAAALieklRF+S1%2fCOCXLcFurFPG%2fWBuznY5fUbgNGO9uol+42gMp9usAOvCOGexhOunW+AE6EiG%2fGtG&aka_media_format_type=hls
