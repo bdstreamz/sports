@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_2000.m3u8?aka_me_session_id=AAAAAAAAAACvTYVhAAAAALieklRF+S1%2fCOCXLcFurFPG%2fWBuznY5fUbgNGO9uol+42gMp9usAOvCOGexhOunW+AE6EiG%2fGtG&aka_media_format_type=hls
+https://sonydaime.akamaized.net/linear/hls/pb/event/cEYXZ_D5QPudLdi2qot0Pg/stream/de5bb715-7af2-40ef-bece-f1627dda1989:SIN/variant/3da7f4b799eb0c349799030c9b893558/bandwidth/hdntl=exp=1636134353~acl=%2f*~id=5042a8573f83478f93591b0a92a867c5-1635886916076~data=hdntl~hmac=56dbc9dfe38e5917ce8a80ff2fbb3b2621caa22ce26a30375f1cb7c93cc8ecfb/1828200.m3u8?aka_me_session_id=AAAAAAAAAADRbYVhAAAAAK7FtkorMX3O0eNu446EvEpUKTRlytMlgjMmn+hAqsIykYdcW4nMCcimOYfsGlxrw%2fAenjYKOgr0&aka_media_format_type=hls
