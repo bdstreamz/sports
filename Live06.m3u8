@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://sonydaime.akamaized.net/linear/hls/pb/event/23bJc4DCSE2-dhd2cG1Jjw/stream/b602a723-d6eb-44ad-99e6-9277cfc0070f:SIN2/variant/4eb36a9a98953207217d86ca2e3bf7b5/bandwidth/hdntl=exp=1636134580~acl=%2f*~id=68800473205446077564137492341591~data=hdntl~hmac=a659932840f54abe828f895f6218b3a81213fa9f25b1c0d653cd7bbdc4ab6aa0/1828200.m3u8?aka_me_session_id=AAAAAAAAAAC0boVhAAAAAPmiDKcr45V0Q69uWRTnZ%2f26T9d9u4FKnI1Fay2z5390pQfsJ5gmjMU%2fyJVJ8%2fNPPitZWiqKo4vZ&aka_media_format_type=hls
+https://sonydaime.akamaized.net/linear/hls/pb/event/23bJc4DCSE2-dhd2cG1Jjw/stream/7285a526-e9f8-4b77-81b4-0c73989793f3:SIN/variant/4eb36a9a98953207217d86ca2e3bf7b5/bandwidth/hdntl=exp=1636135464~acl=%2f*~id=5042a8573f83478f93591b0a92a867c5-1635886916076~data=hdntl~hmac=db4ea150e08b2505ba2e9f6800eb9eda3dbc1d2766f73bd6b40b463948204dbf/1828200.m3u8?aka_me_session_id=AAAAAAAAAAAocoVhAAAAAJ%2fmWUGYeAMgbaPzoBBnw5Dvx7SlxmdTTFjuOK7mY6rMo9A8rqUfVpUtay92FXnqMwf44LfI9HBH&aka_media_format_type=hls
