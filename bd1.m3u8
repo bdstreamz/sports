@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/fUJC3sJx0-e-urRijfQ6g8nZeS7uLBwFfSpLnBhEpjLZNnp63oaIsS-gD59EuVEz-oSnt4IiEBzWmILX8UU_mA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
