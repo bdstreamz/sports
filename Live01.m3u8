@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://c1.aminouras.xyz/live/616165500/index.m3u8
+http://a1.xestreams.xyz:8081/jupiter/0010/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyMSAxMDo0Njo0MyBQTSZoYXNoX3ZhbHVlPUh4KzR4dXNKdTFOQlJtYzd4TTJsRFE9PSZ2YWxpZG1pbnV0ZXM9MzA=
